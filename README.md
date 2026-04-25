@@ -51,5 +51,4 @@ git clone https://github.com/soodkajal784-dotcom/todo-app.git
 * Convert into React app ⚛️
 
 
-ur Name
-nbv v
+ur
