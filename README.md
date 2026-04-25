@@ -36,7 +36,7 @@ todo-app/
 1. Download or clone the repo:
 
 
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/soodkajal784-dotcom/todo-app.git
 
 
 2. Open `index.html` in your browser
@@ -51,6 +51,5 @@ git clone https://github.com/YOUR_USERNAME/todo-app.git
 * Convert into React app ⚛️
 
 
-
-
-Your Name
+ur Name
+nbv v
